@@ -8,7 +8,7 @@
 - 时间：2天内独立完成，可使用任何辅助工具
 - URL1：[https://github.com/deepexi/dubbo-demo]
 - URL2：[https://github.com/deepexi/springcloud-exam]
-- UR3：[https://github.com/deepexi/optimus-commons]
+- URL3：[https://github.com/deepexi/optimus-commons]
 - 邮箱：
   - 广州：根据具体面试的岗位发到对应HR的邮箱（结果发到这个邮箱）
     - HR1:chenshaowen@deepexi.com
